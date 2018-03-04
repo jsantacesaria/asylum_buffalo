@@ -4,7 +4,7 @@
 
 <head>
 
-     <title>About</title>
+     <title>Asylum Buffalo</title>
 
 </head>
 
