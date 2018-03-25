@@ -1,17 +1,5 @@
-<!DOCTYPE html>
+@extends('layouts.app')
 
-<html>
-
-<head>
-
-     <title>Asylum Buffalo</title>
-
-</head>
-
-<body>
-
-    <h1>Hello World!</h1>
-
-</body>
-
-</html>
+@section('content')
+     <h1>Asylum Welcome</h1>
+@endsection
