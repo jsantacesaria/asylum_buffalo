@@ -11,6 +11,9 @@ body, html {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
+* {
+  box-sizing: border-box;
+}
 
 .bg-image {
   /* The image used */
@@ -33,7 +36,7 @@ body, html {
   background-color: rgba(0,0,0, 0.6); /* Black w/opacity/see-through */
   color: white;
   font-weight: bold;
-  border: 6px solid #8A2BE2;
+  border: 6px solid black;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -50,7 +53,7 @@ body, html {
 <div class="bg-image"></div>
 
 <div class="bg-text">
-    <h1 style="font-size:50px">Asylum Contact Form Coming Soon</h1>
+    <h1 style="font-size:40px">Asylum Contact Form Coming Soon</h1>
 
 </div>
 
