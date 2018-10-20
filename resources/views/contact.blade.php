@@ -12,13 +12,9 @@ body, html {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 .bg-image {
   /* The image used */
-  background-image: url("vanilla_bw_prison-1594946_1920.jpg");
+  background-image: url("lightened_black-and-white-photography-3300930_1920.jpg");
   
   /* Add the blur effect */
   filter: blur(8px);
@@ -32,9 +28,7 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
 }
-
-/* Position text in the middle of the page/image */
-.bg-text {
+.bg-text{
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0, 0.6); /* Black w/opacity/see-through */
   color: white;
@@ -49,22 +43,6 @@ body, html {
   padding: 20px;
   text-align: center;
 }
-
-.triskel-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100px;
-    height: 100px;
-    z-index: 2;
-    position: absolute;
-    top: 80%;
-    left: 47%;
-    border-radius: 8px;
-}
-   
-
-}
 </style>
 </head>
 <body>
@@ -72,12 +50,10 @@ body, html {
 <div class="bg-image"></div>
 
 <div class="bg-text">
-    <h1 style="font-size:50px">Asylum</h1>
-    <h4>Must Be Over 18 To Continue</h3>
-    <button type="button" onclick="location.href='about'">Yes, I am Over 18</button>
-    <button type = "button" onclick="location.href='http://www.google.com'" autofocus>No, I Am Not Over 18</button>
+    <h1 style="font-size:50px">Asylum Contact Form Coming Soon</h1>
+
 </div>
-<img class="triskel-img" src="btri.jpg" alt="Triskelion">
+
 </body>
 </html>
 

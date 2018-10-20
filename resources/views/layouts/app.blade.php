@@ -4,7 +4,7 @@
      <title>The Asylum</title>
 </head>
 
-<body>
+<body background='background.jpeg'>
 
   @yield('content')
 
