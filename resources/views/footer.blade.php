@@ -22,10 +22,10 @@ footer {
   <img src="ncsf_short_banner.gif" alt="National Coalition for Sexual Freedom">
   </a>
 <div>
-<a href="http://www.asylumbuffalo.com/">Home</a>
-<a href="http://www.asylumbuffalo.com/about">About</a>
-<a href="http://www.asylumbuffalo.com/contact">Contact</a>
-<a href="http://www.asylumbuffalo.com/login">Member's Login</a>
+<a href="/">Home</a>
+<a href="/about">About</a>
+<a href="/contact">Contact</a>
+<a href="/login">Member's Login</a>
 </div>
 </footer>
 </body>

@@ -20,7 +20,7 @@
 	<a href="https://ncsfreedom.org/who-we-are/coalition-partners" style="color:#FF0000;" target="_blank">NCSF(National Coalition of Sexual Freedom)</a>. 
 	 Interested in learning more? Please <a href="contact" style="color:#FF0000;" >contact us!</a>
     </p> 
-    <button type = "button" onclick="location.href='http://www.asylumbuffalo.com'">Home</button>	
+    <button type = "button" onclick="location.href='/'">Home</button>	
     <button type = "button" onclick="location.href='contact'">Contact Us</button>
 	
 </div>
