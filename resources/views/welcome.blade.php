@@ -3,7 +3,7 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Welcome To The Asylum</title>
-<meta name="description" content="Asylum">
+<meta name="description" content="BDSM social group for submission, submissives, domination, dominants, switches and those curious about BDSM.">
 <meta name="author" content="Asylum">
 <style>
 body, html {
@@ -65,10 +65,11 @@ footer {
     width: 100px;
     height: 100px;
     z-index: 2;
-    position: absolute;
     top: 80%;
     left: 47%;
     border-radius: 8px;
+    text-align: center;
+    position: absolute;
 }
    
 
@@ -93,7 +94,6 @@ footer {
   <a href="https://www.ncsfreedom.org/" target="_blank">
   <img src="ncsf_short_banner.gif" alt="National Coalition for Sexual Freedom">
   </a>
-  <p>Created by jewel</p>
 </footer>
 </body>
 </html>
