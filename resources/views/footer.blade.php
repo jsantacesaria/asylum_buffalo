@@ -21,6 +21,10 @@ footer {
   <a href="https://www.ncsfreedom.org/" target="_blank">
   <img src="ncsf_short_banner.gif" alt="National Coalition for Sexual Freedom">
   </a>
+  <a href="https://fetlife.com/groups/129711" target="_blank">
+  <img src="fl.PNG" alt="Asylum on Fetlife.com">
+  </a>
+  <p><font size="1">FetLife® is a registered trademark of BitLove</font></p> 
 <div>
 <a href="/">Home</a>
 <a href="/about">About</a>
