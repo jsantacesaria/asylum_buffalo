@@ -2,7 +2,7 @@
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Welcome To The Asylum</title>
-<meta name="description" content="BDSM social group for submission, submissives, domination, dominants, switches and those curious about BDSM.">
+<meta name="description" content="Asylum">
 <meta name="author" content="Asylum">
 <style>
 body, html {
@@ -55,16 +55,10 @@ body, html {
     @section('sidebar')
             
     @show
-    <div class="bg-image"></div>
 
     <div class="container">
-      <div class="bg-text">
         @yield('content')
-      </div>
     </div>
 
-    <div class="container">
-      @include('footer')
-    </div>
 </body>
 </html>
