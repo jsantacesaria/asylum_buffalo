@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Welcome To The Asylum</title>
+<title>@yield('title')</title>
 <meta name="description" content="BDSM social group for submission, submissives, domination, dominants, switches and those curious about BDSM.">
 <meta name="author" content="Asylum">
 <style>

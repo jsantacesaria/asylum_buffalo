@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'Page Title')
+@section('title')
+ About Asylum
+@endsection
 
 @section('sidebar')
     @parent
