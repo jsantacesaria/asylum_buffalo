@@ -9,7 +9,7 @@
 
 @section('content')
 
-<div class="bg-text">
+<div>
     <h1 >About Asylum</h1>
     <p>Located in the Buffalo and Greater Western New York area, Asylum is a private, voluntary association for adults (18 and older) with an interest in 
 	responsibly exploring the BDSM lifestyle. 
@@ -17,9 +17,9 @@
 	and Risk Aware Consensual Kink( RACK). 
 	Our core values revolve around respect, confidentiality and consent (Did we mention consent?).
 	We are proudly a Coalition Partner of the 
-	<a href="https://ncsfreedom.org/who-we-are/coalition-partners" target="_blank">NCSF(National Coalition of Sexual Freedom)</a>. 
+	<a href="https://ncsfreedom.org/who-we-are/coalition-partners" style="color:#FF0000;" target="_blank">NCSF(National Coalition of Sexual Freedom)</a>. 
 	 Curious? Interested in learning more? Want to become a member? 
-	Please <a href="contact">contact us!</a>
+	Please <a href="contact" style="color:#FF0000;" >contact us!</a>
     </p> 
     <button type = "button" onclick="location.href='http://www.asylumbuffalo.com'">Home</button>	
     <button type = "button" onclick="location.href='contact'">Contact Us</button>

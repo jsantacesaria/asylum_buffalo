@@ -52,18 +52,14 @@ body, html {
 </head>
 
 <body>
-    @section('sidebar')
-            
     @show
     <div class="bg-image"></div>
 
-    <div class="container">
       <div class="bg-text">
         @yield('content')
       </div>
-    </div>
 
-    <div class="container">
+    <div>
       @include('footer')
     </div>
 </body>
