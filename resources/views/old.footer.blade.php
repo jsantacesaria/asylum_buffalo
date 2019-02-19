@@ -25,6 +25,12 @@ footer {
   <img src="fl.PNG" alt="Asylum on Fetlife.com">
   </a>
   <p><font size="1">FetLife® is a registered trademark of BitLove</font></p> 
+<div>
+<a href="/">Home</a>
+<a href="/about">About</a>
+<a href="/contact">Contact</a>
+<a href="/login">Login</a>
+</div>
 </footer>
 </body>
 
