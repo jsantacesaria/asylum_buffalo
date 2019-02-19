@@ -17,7 +17,7 @@ class ContactsController extends Controller
 
     public function store() {
 
-     $contact = new Contact();
+     $contact = new \App\Contact();
      $contact->contact_name = request('contact_name');
      $contact->email = request('email');
      $contact->comments = request('comments');

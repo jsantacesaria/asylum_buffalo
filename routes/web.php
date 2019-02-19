@@ -18,7 +18,7 @@
 
 Route::get('/', 'PagesController@home');
 Route::get('/about', 'PagesController@about');
-Route::get('/thanks', 'PagesController@thanks');
+Route::get('/thanks', 'ContactsController@thanks');
 Route::get('/contact', 'ContactsController@create');
 Route::post('/contact', 'ContactsController@store');
 Route::get('/login', 'PagesController@login');
